@@ -6,8 +6,8 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите имя:");
 
+            Console.WriteLine("Введите имя:");
             string name = Console.ReadLine();
 
             Console.Write($"Привет, {name}, сегодня {DateTime.Now}");
