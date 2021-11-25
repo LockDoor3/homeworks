@@ -1,6 +1,6 @@
 using System;
 
-namespace task
+namespace urok_7
 {
     class Program
     {
@@ -32,4 +32,3 @@ namespace task
             Print2(N, M, A);
         }
     }
-}
